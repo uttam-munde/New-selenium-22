@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-03T19:36:29 IST" name="Surefire suite" finished-at="2022-11-03T19:37:00 IST" duration-ms="30454">
+    <groups>
+    </groups>
+    <test started-at="2022-11-03T19:36:29 IST" name="Surefire test" finished-at="2022-11-03T19:37:00 IST" duration-ms="30454">
+      <class name="com.mycompany.app.SoftAssert_demo_Test">
+        <test-method signature="launchBrowser()[pri:1, instance:com.mycompany.app.SoftAssert_demo_Test@79ca92b9]" started-at="2022-11-03T19:36:49 IST" name="launchBrowser" finished-at="2022-11-03T19:36:59 IST" duration-ms="10580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checktitle()[pri:2, instance:com.mycompany.app.SoftAssert_demo_Test@79ca92b9]" started-at="2022-11-03T19:36:59 IST" name="checktitle" finished-at="2022-11-03T19:37:00 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktitle -->
+        <test-method signature="checkURL()[pri:3, instance:com.mycompany.app.SoftAssert_demo_Test@79ca92b9]" started-at="2022-11-03T19:37:00 IST" name="checkURL" finished-at="2022-11-03T19:37:00 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkURL -->
+      </class> <!-- com.mycompany.app.SoftAssert_demo_Test -->
+      <class name="com.mycompany.app.Dataprovider_demo_Test">
+        <test-method signature="kite_login(java.lang.String,java.lang.String)[pri:0, instance:com.mycompany.app.Dataprovider_demo_Test@19d37183]" started-at="2022-11-03T19:36:29 IST" name="kite_login" data-provider="dp" finished-at="2022-11-03T19:36:48 IST" duration-ms="18521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DU0468]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kite_login -->
+        <test-method signature="kite_login(java.lang.String,java.lang.String)[pri:0, instance:com.mycompany.app.Dataprovider_demo_Test@19d37183]" started-at="2022-11-03T19:36:29 IST" name="kite_login" data-provider="dp" finished-at="2022-11-03T19:36:45 IST" duration-ms="15459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DU2345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[875642]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kite_login -->
+        <test-method signature="kite_login(java.lang.String,java.lang.String)[pri:0, instance:com.mycompany.app.Dataprovider_demo_Test@19d37183]" started-at="2022-11-03T19:36:29 IST" name="kite_login" data-provider="dp" finished-at="2022-11-03T19:36:49 IST" duration-ms="19608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DU2568]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[201253]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kite_login -->
+        <test-method signature="kite_login(java.lang.String,java.lang.String)[pri:0, instance:com.mycompany.app.Dataprovider_demo_Test@19d37183]" started-at="2022-11-03T19:36:29 IST" name="kite_login" data-provider="dp" finished-at="2022-11-03T19:36:48 IST" duration-ms="18935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DU9870]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[897564]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kite_login -->
+        <test-method signature="kite_login(java.lang.String,java.lang.String)[pri:0, instance:com.mycompany.app.Dataprovider_demo_Test@19d37183]" started-at="2022-11-03T19:36:29 IST" name="kite_login" data-provider="dp" finished-at="2022-11-03T19:36:49 IST" duration-ms="19659" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DU2564]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[256487]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kite_login -->
+      </class> <!-- com.mycompany.app.Dataprovider_demo_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
